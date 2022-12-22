@@ -1,0 +1,1 @@
+mvn clean install & mvn clean javafx:run
